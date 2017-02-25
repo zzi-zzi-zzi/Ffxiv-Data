@@ -1,0 +1,2 @@
+# Ffxiv-Data
+FFxiv Data
